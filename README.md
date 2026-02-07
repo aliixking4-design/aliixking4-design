@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm an IT Enthusiast
 
-<!--
-**aliixking4-design/aliixking4-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Digital Infrastructure student  
+🌐 Focused on networking, systems, and cybersecurity fundamentals  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m passionate about IT infrastructure and how networks, systems, and security work together.  
+I learn mainly through hands-on labs and practical projects, always aiming to document my work clearly and improve step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- Networking basics (TCP/IP, routing, switching)
+- Linux fundamentals
+- Virtualization & labs
+- Cybersecurity basics
+- Documentation & troubleshooting
+
+## 🌱 Currently Learning
+- Advanced networking concepts  
+- Linux administration  
+- Security best practices  
+
+## 📫 Contact
+- GitHub: @aliixking4-design
+
+⭐ Feel free to explore my repositories and follow my learning journey!
